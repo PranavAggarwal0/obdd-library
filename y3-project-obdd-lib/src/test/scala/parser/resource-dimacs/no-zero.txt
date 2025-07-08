@@ -1,0 +1,7 @@
+c abcd
+c efgh
+c ijkl
+c mnop
+p cnf 2 2
+1 2
+-1 -2 0
