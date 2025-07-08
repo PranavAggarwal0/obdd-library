@@ -50,3 +50,9 @@ cd ../y3-project-obdd-app-frontend
 npm i
 npm run dev
 ```
+
+<img width="655" alt="Screenshot 2025-07-08 at 12 58 06" src="https://github.com/user-attachments/assets/4588c191-915a-4bec-a139-b307661c608b" />
+
+<img width="533" alt="Screenshot 2025-07-08 at 12 58 28" src="https://github.com/user-attachments/assets/ae930f4d-944c-44dd-ba39-981fae3bbabf" />
+
+
